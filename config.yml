@@ -37,10 +37,6 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Website
-      description: The web frontend for the bot.
-      category: LX Technologies Shards
-      link: https://example.com/
     - name: API
       description: How we connect our bot to other services.
       category: LX Technologies Shards
