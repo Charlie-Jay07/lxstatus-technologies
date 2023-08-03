@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2023-08-03T16:53:03.768Z
+resolvedWhen: 2023-08-03T16:59:21.900Z
 affected:
   - API
   - Database
