@@ -73,7 +73,7 @@ params:
     - name: LX Technologies Shards
       untitled: false
       description: ""
-      closed: true
+      closed: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
