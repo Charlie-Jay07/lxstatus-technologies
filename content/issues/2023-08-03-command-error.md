@@ -1,0 +1,16 @@
+---
+section: issue
+title: "Command Error:"
+date: 2023-08-03T16:53:03.732Z
+resolved: false
+draft: false
+informational: false
+pin: false
+resolvedWhen: 2023-08-03T16:53:03.768Z
+affected:
+  - API
+severity: disrupted
+---
+**Command Error:** Both `.glb` and `.lb` show a users messages as first place's, Attempting to resolve but unsure if able to.
+
+P﻿ossible Outcome: Data possibly will be reset.
